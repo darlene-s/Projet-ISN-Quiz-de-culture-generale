@@ -10,4 +10,5 @@ appuyant sur la touche 'R' au sein du menu principal.
 
 ## III-Note de fin
 Projet réalisé par Bensekrane Aouicha et Souccouchetty Darlène | TS2 Spécialité ISN
-Lycée La Salle St-Rosaire
+Lycée La Salle St-Rosaire Promo 2018/2019
+
