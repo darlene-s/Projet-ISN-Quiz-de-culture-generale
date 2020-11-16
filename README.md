@@ -9,5 +9,5 @@ Pour en savoir plus, nous avons crée une section spécifique aux règles au sei
 appuyant sur la touche 'R' au sein du menu principal.
 
 ## III-Note de fin
-Projet réalisé par Bensekrane Aouicha et Souccouchetty Darlène TS2-Spécialité ISN
+Projet réalisé par Bensekrane Aouicha et Souccouchetty Darlène | TS2 Spécialité ISN
 Lycée La Salle St-Rosaire
