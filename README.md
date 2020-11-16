@@ -1,2 +1,2 @@
-# Projet-ISN-Quiz-de-culture-g-n-rale
+# Projet-ISN-Quiz-de-culture-generale
 Petite application console de quiz réalisée en C
