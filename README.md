@@ -2,7 +2,7 @@
 Petite application console de quiz réalisée en C
 ##  I- A  propos
 Notre  jeu est  un simple quiz de culture générale, proposant un total de 15 questions portant sur
-divers enseignements en classe de terminale S.
+divers enseignements proposés en terminale S.
 ##  II- Les règles 
 Le but de ce jeu est d'atteindre un score de 100 en repondant aux questions du quiz.
 Pour en savoir plus, nous avons crée une section spécifique aux règles au sein du code et accessible en
