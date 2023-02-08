@@ -1,5 +1,5 @@
-# Projet ISN : Quiz de culture génerale
-Petite application console de quiz réalisée en C
+# Projet de spécialité ISN : Quiz de culture génerale
+Simple application console de quiz réalisée en C
 ##  I- A  propos
 Notre  jeu est  un simple quiz de culture générale, proposant un total de 15 questions portant sur
 divers enseignements proposés en terminale S.
